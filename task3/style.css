@@ -1,0 +1,25 @@
+.my-div{
+    height: 400px;
+    width: 400px;
+    background-image: url("img/image.jpg");
+    color: rgb(147, 179, 207);
+}
+
+
+.b1 {
+    background-repeat: no-repeat;
+}
+
+.b2 {
+    background-repeat: repeat-y;
+    background-position: right;
+}
+
+.b3 {
+    background-repeat: repeat-x;
+    background-position: bottom;
+}
+
+.b4 {
+    background-repeat: repeat;
+}
