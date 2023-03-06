@@ -1,0 +1,33 @@
+
+.con1{
+    width: 200px;
+    height: 180px;
+    background-color: white;
+    color: black;
+     padding: 20px;
+     margin: 8px;
+     display:inline-block;
+     border: solid 5px red;
+}
+.con2{
+    width: 200px;
+    height: 180px;
+    background-color:blueviolet;
+    color: white;
+    padding: 20px;
+    margin: 8px;
+    display:inline-block;
+    border-left: dashed 5px red;
+    border-right: dotted 5px red;
+}
+.con3{
+    width: 200px;
+    height: 180px;
+    background-color: rgb(174, 220, 231);
+    color: white;
+     padding: 20px;
+     margin: 8px;
+     display:inline-block;
+     border-top: dashed 5px red;
+     border-bottom: solid 5px red;
+}
